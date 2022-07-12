@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,47 +29,55 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:1" ;
-    skos:prefLabel "Central"@eng-Latn .
+    skos:prefLabel "Central"@eng-Latn ;
+    wdata:q7200235 "RU001" .
 
 <urn:mdciii:1603:16:643:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:2" ;
-    skos:prefLabel "Far Eastern"@eng-Latn .
+    skos:prefLabel "Far Eastern"@eng-Latn ;
+    wdata:q7200235 "RU002" .
 
 <urn:mdciii:1603:16:643:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:3" ;
-    skos:prefLabel "North Caucasus"@eng-Latn .
+    skos:prefLabel "North Caucasus"@eng-Latn ;
+    wdata:q7200235 "RU003" .
 
 <urn:mdciii:1603:16:643:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:4" ;
-    skos:prefLabel "Northwestern"@eng-Latn .
+    skos:prefLabel "Northwestern"@eng-Latn ;
+    wdata:q7200235 "RU004" .
 
 <urn:mdciii:1603:16:643:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:5" ;
-    skos:prefLabel "Siberian"@eng-Latn .
+    skos:prefLabel "Siberian"@eng-Latn ;
+    wdata:q7200235 "RU005" .
 
 <urn:mdciii:1603:16:643:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:6" ;
-    skos:prefLabel "South"@eng-Latn .
+    skos:prefLabel "South"@eng-Latn ;
+    wdata:q7200235 "RU006" .
 
 <urn:mdciii:1603:16:643:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:7" ;
-    skos:prefLabel "Ural"@eng-Latn .
+    skos:prefLabel "Ural"@eng-Latn ;
+    wdata:q7200235 "RU007" .
 
 <urn:mdciii:1603:16:643:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:643:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:643:1:8" ;
-    skos:prefLabel "Volga"@eng-Latn .
+    skos:prefLabel "Volga"@eng-Latn ;
+    wdata:q7200235 "RU008" .
 
